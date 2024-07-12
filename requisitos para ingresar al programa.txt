@@ -1,0 +1,2 @@
+versión de Django: 5.0.6
+versión de Python: 3.11.3
